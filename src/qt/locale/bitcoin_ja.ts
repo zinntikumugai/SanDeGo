@@ -761,7 +761,7 @@ Address: %4
     <message>
         <location line="+48"/>
         <source>Fee:</source>
-        <translation>料金:</translation>
+        <translation>手数料:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -776,7 +776,7 @@ Address: %4
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+51"/>
         <source>After Fee:</source>
-        <translation>料金の後</translation>
+        <translation>手数料差引後:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -791,7 +791,7 @@ Address: %4
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation>木モード</translation>
+        <translation>ツリーモード</translation>
     </message>
     <message>
         <location line="+16"/>
