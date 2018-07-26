@@ -1712,7 +1712,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation>カスタムのお釣りのアドレス</translation>
+        <translation>カスタムのお釣りアドレス</translation>
     </message>
     <message>
         <location line="+106"/>
@@ -1891,7 +1891,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>アドレス帳に追加するには、このアドレスのラベルを入力します</translation>
+        <translation>アドレス帳に追加するには、ここにアドレスのラベルを入力します</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1931,7 +1931,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a SanDeGo address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>SanDeGoアドレスの入力 (例；B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>SanDeGoアドレスの入力 (例：B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
