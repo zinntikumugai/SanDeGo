@@ -1318,7 +1318,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting SanDeGo.</source>
-        <translation>この設定はSanDeGoをリスタートした後に有効する。</translation>
+        <translation>この設定はウォレット再起動後に有効になります。</translation>
     </message>
     <message>
         <location line="+29"/>
