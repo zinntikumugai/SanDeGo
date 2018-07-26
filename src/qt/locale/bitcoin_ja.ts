@@ -1518,7 +1518,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation>testnetで</translation>
+        <translation>testnet</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -2250,7 +2250,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 5 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>コインを費やす前に発現されたコインは5ブロック間成熟しなければなりません。このブロックを発現させたときに、ブロックチェインに足すためにネットワークへ放送しました。ブロックチェインに追加失敗した場合、ラベルは「受け入られていない」に変わって、費やせられない状況になります。自分のノードと他のノードと同時に新しいブロックを発現させたときに、時折に起こること。</translation>
+        <translation>コインを費やす前に発現されたコインは5ブロック間成熟しなければなりません。このブロックを発現させたときに、ブロックチェーンに足すためにネットワークへ放送しました。ブロックチェーンに追加失敗した場合、ラベルは「受け入られていない」に変わって、費やせられない状況になります。自分のノードと他のノードと同時に新しいブロックを発現させたときに、時折に起こること。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2701,7 +2701,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>褒奨金をもらうためと、SanDeGoネットワークをサポートするために、コインを賭ける(デファルト：1)</translation>
+        <translation>SanDeGoネットワークをサポートしてコインを賭ける (デファルト：1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2756,12 +2756,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-8"/>
         <source>Importing blockchain data file.</source>
-        <translation>ブロックチェインのファイルを読み込んでいる。</translation>
+        <translation>ブロックチェーンのファイルを読み込んでいる。</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Importing bootstrap blockchain data file.</source>
-        <translation>ブートストラップなブロックチェインのファイルを読み込んでいる。</translation>
+        <translation>ブートストラップブロックチェーンファイルを読み込んでいる。</translation>
     </message>
     <message>
         <location line="-88"/>
