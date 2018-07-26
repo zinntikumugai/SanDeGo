@@ -1126,7 +1126,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>手続きを早めるためのオプショナル料金。だいたいの処理は1KB。料金の0.01が勧めです。</translation>
+        <translation>取引を早く処理されるための1kB辺りの手数料を設定します。(オプション) ほとんどの処理は1KBです。0.01 SanDeGOがが勧めです。</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1136,7 +1136,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation>貯金は賭ける参加しないため、いつでも支出できる。</translation>
+        <translation>貯金は賭けに使用しません。いつでも支出できるようになります。</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1286,7 +1286,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>コインコントロールの設定を表示する(有識者のみ！)</translation>
+        <translation>コインコントロールの設定を表示する(上級者向け！)</translation>
     </message>
     <message>
         <location line="+71"/>
