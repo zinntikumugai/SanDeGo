@@ -67,7 +67,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-46"/>
         <source>These are your SanDeGo addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>これは支払いを受けるためのSanDeGoのアドレス。支払い管理をするのため、各送信者へ、それぞれのアドレスを伝えたほうがいいです。</translation>
+        <translation>これは支払いを受けるためのSanDeGoのアドレスです。支払い管理をするため、各送信者ごとのアドレスを伝えたほうがよいでしょう。</translation>
     </message>
     <message>
         <location line="+60"/>
